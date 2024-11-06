@@ -153,14 +153,14 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'CineScout - Scouting the best trailers for every taste. ',
         description: 'A dynamic movie trailer platform that brings cinematic experiences to your fingertips. Powered by the TMDB API, CineScout lets users explore the latest movie trailers. The intelligent Gemini chatbot enhances the experience by offering personalized movie recommendations based on user preferences. Built with React and Redux for smooth, interactive browsing and designed with Tailwind CSS for a sleek, modern interface.',
-        link: 'https://netflix-jkghrawcs-nitish-pandas-projects.vercel.app',
+        link: 'https://netflix-gpt-hazel-iota.vercel.app/',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'TO-DO APP',
         description: 'A dynamic task management app built with React and Redux for smooth state management. It features add, edit, delete, search, and sort by completion functionalities. Data is securely stored and synchronized with Firebase, while the responsive UI is crafted using Tailwind CSS for a modern, clean design.',
-        link: 'https://todo-ak159n7hp-nitish-pandas-projects.vercel.app',
+        link: 'https://todo-app-seven-theta-25.vercel.app',
     },
  
 ];
