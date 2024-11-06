@@ -146,7 +146,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'HungryPanda - Order more, savor more.',
         description: 'A dynamic, AI-powered food ordering app designed to enhance the user experience with real-time recommendations and seamless interactions.Leveraging Swiggy’s API, it delivers extensive menu options from local favourite. An intelligent chatbot, powered by Dialogflow, provides 24/7 assistance, guiding users through the ordering process with ease and personalization.',
-        link: '',
+        link: 'https://hungrypanda.vercel.app',
     },
     {
         iconUrl: threads,
